@@ -1,0 +1,205 @@
+.semana_tic
+{
+    margin: 0;
+    background-color: #7DBFF9;
+    font-family: 'MyriadPro-Regular';
+    background-image: url(../images/fondo-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MyriadPro-Regular.otf')  format('opentype'),
+	   url('../fonts/MyriadPro-Regular.woff') format('woff'),
+       url('../fonts/MyriadPro-Regular.ttf')  format('truetype'),
+       url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-LightIt';
+  src: url('../fonts/MyriadPro-LightIt.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/MyriadPro-LightIt.otf')  format('opentype'),
+	   url('../fonts/MyriadPro-LightIt.woff') format('woff'),
+       url('../fonts/MyriadPro-LightIt.ttf')  format('truetype'),
+       url('../fonts/MyriadPro-LightIt.svg#MyriadPro-LightIt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Bold';
+  src: url('../fonts/MyriadPro-Bold.eot?#iefix') format('embedded-opentype'), 
+       url('../fonts/MyriadPro-Bold.otf')  format('opentype'),
+	   url('../fonts/MyriadPro-Bold.woff') format('woff'),
+       url('../fonts/MyriadPro-Bold.ttf')  format('truetype'),
+       url('../fonts/MyriadPro-Bold.svg#MyriadPro-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.semana_tic .contenedor
+{
+    background-color: white;
+    padding: 0;
+}
+
+.semana_tic .banner
+{
+    height: auto;
+}
+
+.semana_tic .banner img
+{
+    width: 100%;
+}
+
+.semana_tic .seccion0
+{
+    padding: 20px;
+}
+
+.semana_tic .seccion1
+{
+    padding: 20px;
+}
+
+.semana_tic h1
+{
+    color: #592980;
+    display: inline;
+    margin: 0;
+    float:left; 
+}
+
+.semana_tic h2
+{
+    color: #1F356A;
+}
+
+.semana_tic h4
+{
+    color: #1F356A;
+}
+
+.semana_tic h1, .semana_tic h2, .semana_tic h3, .semana_tic h4, .semana_tic h5, .semana_tic h6
+{
+    font-family: 'MyriadPro-Bold';
+    margin: 10px;
+}
+
+.semana_tic .titulo1
+{
+    background-color: #C4D141;
+}
+
+.semana_tic .titulo2
+{
+    background-color: #7DBFF9;
+}
+
+.semana_tic .titulo3
+{
+    color: #592980;
+}
+
+.semana_tic .seccion2, .semana_tic .seccion3
+{
+    padding: 20px;
+    margin: 0;
+}
+
+.semana_tic .seccion4
+{
+    padding: 20px;
+    margin: 0;
+}
+
+.semana_tic .speaker
+{
+    text-align: center;
+    margin-top: 10px;
+    border-right: solid #DBDBDD thin;
+    padding: 10px;
+}
+
+.semana_tic .italic
+{
+    font-family: 'MyriadPro-LightIt';
+    font-size: 0.9em;
+}
+
+.semana_tic .lapiz
+{
+    padding-left: 10px;
+}
+
+.semana_tic .lapiz img
+{
+    float: left;
+}
+
+.semana_tic .menu
+{
+    min-height: 40px;
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.semana_tic .menu .itemActual
+{
+    background-color: #589CDE;
+    border-bottom: 3px solid #589CDE;
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+.semana_tic .menu .itemMenu
+{
+    background-color: #1F356A;
+    border-bottom: 3px solid #589CDE;
+    padding: 10px 0;
+    cursor: pointer;
+    border-right: solid thin #589CDE;
+}
+
+.semana_tic .menu .itemMenu:last-child
+{
+    border-right: none;
+}
+
+.semana_tic .menu .itemMenu:hover
+{
+    background-color: #C4D141;
+}
+
+.semana_tic thead
+{
+    color: #1F356A;
+}
+
+.semana_tic .panel-heading
+{
+    padding: 5px 10px;
+    color: #1F2B49;
+}
+
+.semana_tic .iconos_contacto
+{
+    font-size: 1.4em;
+}
+
+.semana_tic .iconos_contacto img
+{
+    margin-right: 10px;
+}
+
+.semana_tic .imagen_contacto img
+{
+    float: right;
+}
