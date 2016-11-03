@@ -6,3 +6,8 @@
 .semana_tic .main-menu ul{
   border-bottom: 4px solid #589CDE!important;
 }
+.semana_tic .main-menu > .pane-content > ul > li{
+	width:25%;
+  border-right: 2px solid rgba(255, 255, 255, 0.7);
+  margin: 5px 0;
+}
