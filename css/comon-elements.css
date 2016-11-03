@@ -67,14 +67,14 @@
 }
 /***MENÚ***/
 /*cuando todos los hijos del menú son iguales*/
-.semana_tic .main-menu-allies-10 > .pane-content > ul > li{
+.semana_tic .main-menu > .pane-content > ul > li{
 	width:25%;
   border-right: 2px solid rgba(255, 255, 255, 0.7);
   margin: 5px 0;
 }
-.semana_tic .main-menu-allies-10 > .pane-content > ul > li:last-child{
+/*.semana_tic .main-menu > .pane-content > ul > li:last-child{
 	border-right: none;
-}
+}*/
 /*cuando el menú tiene difirentes tamaños para cada hijo*/
 /*
 .semana_tic .main-menu-allies-10 > .pane-content > ul > li:first-child{
