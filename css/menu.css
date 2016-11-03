@@ -2,6 +2,18 @@
 	margin-bottom: 0px;
 	height: 40px;
 }
+.semana_tic .breadcrumb a, .semana_tic .breadcrumb span.divider{
+  color: #e0e0e0;
+}
+.semana_tic .breadcrumb a:last-child{
+  color: #FFFFFF;
+}
+.semana_tic .breadcrumb a:first-child{
+      background: url(../images/location_i_home.png) center left no-repeat;
+}
+.semana_tic .title{
+    display: none;
+}
 .semana_tic .main-menu {
   background: #1F356A;
   padding:0px;
@@ -31,4 +43,14 @@
 .semana_tic .main-menu > .pane-content > ul > li >a:hover{
   background: #4094e6;
   text-decoration: none;
+}
+@media (max-width: 850px){
+	.semana_tic .main-menu > .pane-content > ul > li{
+		width:100%!important;
+	}
+}
+@media (max-width: 1024px){
+  .semana_tic .main-menu {
+      margin-top: -16px; 
+  }
 }
