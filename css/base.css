@@ -63,6 +63,7 @@
 .semana_tic h1, .semana_tic h2, .semana_tic h3, .semana_tic h4, .semana_tic h5, .semana_tic h6
 {
     font-family: Tahoma,Geneva,sans-serif;
+    font-weight: bold;
     margin: 10px;
 }
 
