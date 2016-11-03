@@ -47,7 +47,9 @@
     color: #592980;
     display: inline;
     margin: 0;
-    float:left; 
+    float:left;
+    font-size: 1.3em;
+    font-weight: 200;
 }
 
 .semana_tic h2
