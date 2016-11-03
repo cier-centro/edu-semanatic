@@ -2,6 +2,18 @@
 	margin-bottom: 0px;
 	height: 40px;
 }
+.semana_tic .breadcrumb a, .semana_tic .breadcrumb span{
+  color: #e8e8e8;
+}
+.semana_tic .breadcrumb a:last-child{
+  color: #FFFFFF;
+}
+.semana_tic .breadcrumb a:first-child{
+      background: url(images/location_i_home.png) center left no-repeat;
+}
+.semana_tic .title{
+    display: none;
+}
 .semana_tic .main-menu {
   background: #1F356A;
   padding:0px;
