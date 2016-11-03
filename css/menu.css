@@ -1,0 +1,18 @@
+.semana_tic .main-menu > .pane-content > ul > li>a{
+  font-family: 'MyriadPro-Regular','sans-serif';
+}
+.semana_tic .main-menu {
+  background: #1F356A;
+  padding:0px;
+}
+.semana_tic .main-menu ul{
+  border-bottom: 4px solid #589CDE!important;
+}
+.semana_tic .main-menu > .pane-content > ul > li{
+	width:25%;
+  border-right: 1px solid #589CDE;
+  margin: 5px 0;
+}
+.semana_tic .main-menu > .pane-content > ul > li:last-child{
+	border-right: none;
+}
