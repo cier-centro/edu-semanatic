@@ -48,9 +48,15 @@
 	.semana_tic .main-menu > .pane-content > ul > li{
 		width:100%!important;
 	}
+  .semana_tic .main-menu > .pane-content > ul > li{
+    border-right: 0px;
+  }
+  .semana_tic .main-menu ul{
+    border-bottom: 1px solid #589CDE!important;
+  }
 }
 @media (max-width: 1024px){
   .semana_tic .main-menu {
-      margin-top: -16px; 
+      margin-top: -16px;
   }
 }
