@@ -1,10 +1,14 @@
+.semana_tic .breadcrumb{
+	margin-bottom: 0px;
+	height: 40px;
+}
 .semana_tic .main-menu {
   background: #1F356A;
   padding:0px;
 }
 .semana_tic .main-menu ul{
   border-bottom: 4px solid #589CDE!important;
-  background: #1F356A;
+  background: #1F356A!important;
 }
 .semana_tic .main-menu > .pane-content > ul > li{
 	width:25%;
@@ -21,7 +25,10 @@
   text-transform: uppercase;
   font-size: 14px!important;
 }
-.semana_tic .main-menu > .pane-content > ul > li >a:hover{
+.semana_tic .main-menu > .pane-content > ul > li >a.active{
   background: #589CDE;
+}
+.semana_tic .main-menu > .pane-content > ul > li >a:hover{
+  background: #4094e6;
   text-decoration: none;
 }
