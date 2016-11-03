@@ -4,7 +4,7 @@
 }
 .semana_tic .main-menu ul{
   border-bottom: 4px solid #589CDE!important;
-  background: #1F356A;
+  background: #1F356A!important;
 }
 .semana_tic .main-menu > .pane-content > ul > li{
 	width:25%;
@@ -24,7 +24,4 @@
 .semana_tic .main-menu > .pane-content > ul > li >a:hover{
   background: #4094e6;
   text-decoration: none;
-}
-.semana_tic .main-menu ul.menu{
-  background: #1F356A!important;
 }
