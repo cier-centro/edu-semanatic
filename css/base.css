@@ -8,6 +8,14 @@
     background-position: top;
 }
 
+.not-front .main_container
+{
+    background-color: #7DBFF9;
+    background-image: url(../images/fondo-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
 @font-face {
   font-family: 'MyriadPro-Regular';
   src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
@@ -202,4 +210,16 @@
 .semana_tic .imagen_contacto img
 {
     float: right;
+}
+
+.semana_tic .table
+{
+    background: none;
+    color: #1F2B49;
+}
+
+.semana_tic li
+{
+    list-style: square;
+    margin-left: 15px;
 }
