@@ -220,5 +220,6 @@
 
 .semana_tic li
 {
-    list-style: circle;
+    list-style: square;
+    margin-left: 15px;
 }
