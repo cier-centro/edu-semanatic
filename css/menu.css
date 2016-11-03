@@ -44,3 +44,8 @@
   background: #4094e6;
   text-decoration: none;
 }
+@media (max-width: 850px){
+	.semana_tic .main-menu > .pane-content > ul > li{
+		width:100%!important;
+	}
+}
