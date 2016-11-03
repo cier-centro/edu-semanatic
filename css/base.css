@@ -2,7 +2,7 @@
 {
     margin: 0;
     background-color: #7DBFF9;
-    font-family: 'MyriadPro-Regular';
+    font-family: Tahoma,Geneva,sans-serif;
     background-image: url(../images/fondo-01.png);
     background-repeat: no-repeat;
     background-position: top;
@@ -95,7 +95,7 @@
 
 .semana_tic h1, .semana_tic h2, .semana_tic h3, .semana_tic h4, .semana_tic h5, .semana_tic h6
 {
-    font-family: 'MyriadPro-Bold';
+    font-family: Tahoma,Geneva,sans-serif;
     margin: 10px;
 }
 
@@ -136,7 +136,7 @@
 
 .semana_tic .italic
 {
-    font-family: 'MyriadPro-LightIt';
+    font-family: Tahoma,Geneva,sans-serif;
     font-size: 0.9em;
 }
 
