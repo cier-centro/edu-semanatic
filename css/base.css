@@ -12,6 +12,8 @@
 {
     background-color: #7DBFF9;
     background-image: url(../images/fondo-01.png);
+    background-repeat: no-repeat;
+    background-position: top;
 }
 
 @font-face {
