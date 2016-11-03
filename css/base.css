@@ -223,6 +223,11 @@
     list-style: square;
     margin-left: 15px;
 }
+
+.semana_tic .field-content
+{
+    font-family: Tahoma,Geneva,sans-serif;
+}
 .semana_tic p
 {
     margin-bottom: 5px;
