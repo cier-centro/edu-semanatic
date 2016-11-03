@@ -212,12 +212,8 @@
     float: right;
 }
 
-.semana_tic .content table>thead>tr>th
+.semana_tic .table
 {
     background: none;
-}
-
-.semana_tic .content table>thead>tr>th:first-child
-{
-    color: #1F356A;
+    color: #1F2B49;
 }
