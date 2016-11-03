@@ -49,3 +49,8 @@
 		width:100%!important;
 	}
 }
+@media (max-width: 1024px){
+  .semana_tic .main-menu {
+      margin-top: -16px; 
+  }
+}
