@@ -9,7 +9,6 @@
 .semana_tic .main-menu > .pane-content > ul > li{
 	width:25%;
   border-right: 1px solid #589CDE;
-  margin: 5px 0;
 }
 .semana_tic .main-menu > .pane-content > ul > li:hover{
   background: #589CDE;
