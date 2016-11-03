@@ -24,4 +24,5 @@
 }
 .semana_tic .main-menu > .pane-content > ul > li >a:hover{
   background: #589CDE;
+  text-decoration: none;
 }
