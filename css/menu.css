@@ -1,3 +1,7 @@
+.semana_tic .breadcrumb{
+	margin-bottom: 0px;
+	height: 40px;
+}
 .semana_tic .main-menu {
   background: #1F356A;
   padding:0px;
